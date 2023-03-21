@@ -40,7 +40,7 @@ int main ()
 
 
 	// determining the mean
-	float mean;
+	double mean;
 	for (int i = 0; i < ArrLength; i++)
 	{
 		mean += numArr[i];
